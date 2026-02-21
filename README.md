@@ -1,2 +1,36 @@
-# credit-card-fraud-detection
-Machine learning project to detect fraudulent credit card transactions using Random Forest and XGBoost.
+# Credit Card Fraud Detection
+
+## 📌 Problem Statement
+The objective of this project is to detect fraudulent credit card transactions using machine learning techniques.
+
+## 📊 Dataset
+- Source: Kaggle Credit Card Fraud Dataset
+- Highly imbalanced dataset
+
+## ⚙️ Workflow
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Handling Class Imbalance
+- Model Training and Evaluation
+
+## 🤖 Models Used
+- Random Forest
+- XGBoost
+- Gradient Boosting
+
+## 📈 Performance
+- Achieved 98% Precision after hyperparameter tuning
+- Evaluated using ROC-AUC and Precision-Recall metrics
+
+## 🛠 Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+
+## 🚀 Conclusion
+The optimized Random Forest model performed best in detecting fraudulent transactions with high precision.
