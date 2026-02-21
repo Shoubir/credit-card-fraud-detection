@@ -27,10 +27,6 @@ The objective of this project is to detect fraudulent credit card transactions u
 
 *Note: Since the dataset is highly imbalanced, precision and recall are more important evaluation metrics than accuracy.*  
 
-## 📈 Performance
-- Achieved 98% Precision after hyperparameter tuning
-- Evaluated using ROC-AUC and Precision-Recall metrics
-
 ## 🛠 Tools & Libraries
 - Python
 - Pandas
