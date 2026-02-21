@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection
 
+## 📂 Project Files
+- 📓 Notebook: [View Full Implementation](./credit_card_fraud_detection.ipynb)
+
 ## 📌 Problem Statement
 The objective of this project is to detect fraudulent credit card transactions using machine learning techniques.
 
